@@ -1,6 +1,6 @@
 **How to run the code:**<br>
 
-1.    !git clone https://github.com/AJITKUMAR130012/Yolov5_table_Detection.git
+1.    !git clone https://github.com/dhriti250/TableDetectionInDocumentImage.git
 2.    cd Yolov5_table_Detection/yolov5
 3.    Install all the requiremement for the 
 4.    Setup all the train and validation dataset, a/c to the given directory.
