@@ -5,7 +5,7 @@
 3.    Install all the requiremement for the 
 4.    Setup all the train and validation dataset, a/c to the given directory.
 5.    Then go into the data folder, and **custom_coco128.yaml** and we have to make changes in that folder.
-      ![custom_coco128](https://github.com/dhriti250/TableDetectionInDocumentImage.git)
+      ![custom_coco128](https://user-images.githubusercontent.com/60688738/222893182-583f657d-f5b6-4919-be3d-5f75c6a7adfc.png
 6.    done!
 7.    Then run the running and testing script that is given in **.ipynb** file<br>
 
